@@ -1,6 +1,9 @@
 File Structure
+
 Clmg.h: Header file containing class definitions and declarations.
+
 game: Executable file for the game.
+
 game.cpp: Source file containing the main game logic.
 game.o: Object file generated from the game source code.
 install-libraries.sh: Shell script for installing necessary libraries.
